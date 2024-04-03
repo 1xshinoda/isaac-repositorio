@@ -33,7 +33,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #a8a3a3;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -83,10 +83,10 @@ container{
 }
 
 #imagemINTRODUCTION{
-    margin: 10px;
-    align-items: center;
-    padding: 33,3%;
-    display: flex;
+    width: 350px; 
+    height: auto; 
+    display: block; 
+    margin: 2      
 }
 
 .imagem {

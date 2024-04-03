@@ -1,0 +1,28 @@
+form{
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+
+h1{
+text-align: center;
+
+}
+
+.form-label{
+
+    color:blueviolet;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-control{
+    font-style: italic;
+
+
+}
+
+.mb-3{
+
+    width: 100%;
+}
